@@ -11,11 +11,14 @@ public class hello {public class Sample {
 		System.out.println("hello  heyy");
 
 	}
-	private void Sysout1() {
+	private void Sysout3() {
 		// TODO Auto-generated method stub
 
 	}
+	private void Sysout4() {
+		// TODO Auto-generated method stub
 
+	}
 
 }
 
